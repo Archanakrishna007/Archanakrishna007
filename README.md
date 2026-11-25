@@ -3,7 +3,7 @@
 🎓 B.E. Electronics & Communication Engineering — College of Engineering Chengannur, affiliated with KTU
 📍 Bengaluru, Karnataka, India
 🔍 Aspiring Embedded Systems Engineer | Firmware Development | Embedded Linux
-----------------------------------------------------------------------------------------------------------------
+
 
 *About Me*
 
@@ -18,4 +18,3 @@ Electronics and Communication Engineering graduate with a strong interest in Emb
 📍 Bengaluru, Karnataka, India
 
 🔗 LinkedIn: www.linkedin.com/in/archanakrishna08
-------------------------------------------------------------------------------------------------------------------------
