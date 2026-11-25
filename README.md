@@ -1,3 +1,10 @@
+
+*Hi, I'm Archana Krishna* 👋
+🎓 B.E. Electronics & Communication Engineering — College of Engineering Chengannur, affiliated with KTU
+📍 Bengaluru, Karnataka, India
+🔍 Aspiring Embedded Systems Engineer | Firmware Development | Embedded Linux
+----------------------------------------------------------------------------------------------------------------
+
 *About Me*
 
 Electronics and Communication Engineering graduate with a strong interest in Embedded Systems and Firmware Development. Currently undergoing Embedded Systems training at Emertxe, focusing on strengthening technical expertise and practical development skills.
@@ -11,3 +18,4 @@ Electronics and Communication Engineering graduate with a strong interest in Emb
 📍 Bengaluru, Karnataka, India
 
 🔗 LinkedIn: www.linkedin.com/in/archanakrishna08
+------------------------------------------------------------------------------------------------------------------------
