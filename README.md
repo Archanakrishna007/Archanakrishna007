@@ -1,16 +1,13 @@
-## Hi there 👋
+About Me
 
-<!--
-**Archanakrishna007/Archanakrishna007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Communication Engineering graduate with a strong interest in Embedded Systems and Firmware Development. Currently undergoing Embedded Systems training at Emertxe, focusing on strengthening technical expertise and practical development skills.
 
-Here are some ideas to get you started:
+Technical Interests: Embedded Systems, Firmware Development, Microcontrollers, and Embedded Linux.
+Programming: Advanced C.
+Hardware & Protocols: PIC18F4580, CAN, UART, and I2C.
+Current Focus: Developing practical embedded applications and enhancing problem-solving skills.
+Career Objective: Seeking entry-level opportunities in Embedded Systems and Firmware Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Bengaluru, Karnataka, India
+
+🔗 LinkedIn: www.linkedin.com/in/archanakrishna08
